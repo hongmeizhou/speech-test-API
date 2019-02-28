@@ -1,0 +1,1 @@
+{https://soe.tencentcloudapi.com/?Action=InitOralProcess& SessionId = stress_test_956938& WorkMode = 0& RefText = We have trouble scoring.& EvalMode = 0& ScoreCoeff = 3.5& Version=2018-07-24}
